@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+### About me 🤖
+
+<table>
+  <tr>
+    <td valign="center">
+        🎓I am pursuing both the <b>Bachelor's in Computer Science</b> and <b>Master's in Web Technologies, Application and Science</b>
+    </td>
+  </tr>
+</table>
+
+
+
 <!--
 **samikuikka/samikuikka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
