@@ -1,6 +1,6 @@
-### 👋 Hi there, I'm Sami Kuikka!
+## 👋 Hi there, I'm Sami Kuikka!
 
-### About me 🤖
+## About me 🤖
 
 <table>
   <tr>
@@ -20,7 +20,7 @@
   </tr>
 </table>
 
-### 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6364FF)
 ![](https://img.shields.io/badge/Tech-HTML5-informational?style=flat&logo=html5&logoColor=white&color=6364FF)
@@ -40,7 +40,7 @@
 ![](https://img.shields.io/badge/Tech-MaterialUI-informational?style=flat&logo=mui&logoColor=white&color=6364FF)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=6364FF)
 
-### ⬆️ What I'm up to
+## ⬆️ What I'm up to
 
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
     - 💨 Finishing my **Bachelor's studies**
@@ -49,7 +49,31 @@
     - Learn Next.js to to server-side render React apps.
     - Create a project to learn [T3 Stack](https://create.t3.gg/)
     
+    
+## 📲 Contact me
 
+![](https://img.shields.io/badge/samikuikka@outlook.com-informational?style=flat&logo=gmail&logoColor=EA4335&color=white)
+
+## Stats📈
+<p align="center">
+<a href="https://github.com/samikuikka/samikuikka">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samikuikka&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/samikuikka/samikuikka">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samikuikka&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sami Kuikka's GitHub stats" />
+</a>
+ <a href="https://github.com/samikuikka/Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samikuikka&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+  <a href="https://github.com/samikuikka/workout-logger-backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samikuikka&repo=workout-logger-backend&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+</p>
+
+
+<p align="center">
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=samikuikka&theme=onedark" alt="#samikuikka" />
+</p>
 <!--
 **samikuikka/samikuikka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
