@@ -1,0 +1,16 @@
+<svg fill="none" viewBox="0 0 800 100" width="800" height="60" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+            h1 {
+                font-size: 60px;
+                background: linear-gradient(120.86deg, #4C1D95 3.99%, #E11D48 66.93%);
+                 -webkit-background-clip: text;
+                 -webkit-text-fill-color: transparent;
+            }
+
+            </style>
+            <h1>Welcome to my GitHub</h1>
+        </div>
+    </foreignObject>
+</svg>
