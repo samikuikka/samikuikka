@@ -45,6 +45,7 @@
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
     - 💨 Finishing my **Bachelor's studies**
     - 🚀 Learning Astro.js
+    - Improving my personal website
 - 🎯 In the near future I will...
     - Learn Next.js to to server-side render React apps.
     - Create a project to learn [T3 Stack](https://create.t3.gg/)
