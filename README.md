@@ -57,7 +57,7 @@
 
 ## Stats📈
 <!-- https://github.com/anuraghazra/github-readme-stats/issues/2380 -->
-
+<!--
 <p align="center">
 <a href="https://github.com/samikuikka/samikuikka">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samikuikka&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -72,7 +72,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samikuikka&repo=workout-logger-backend&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 </p>
-
+-->
 
 
 <p align="center">
