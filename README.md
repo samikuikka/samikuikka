@@ -43,7 +43,7 @@
 ## ⬆️ What I'm up to
 
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
-    - 💨 Finishing my **Bachelor's studies**
+    - 💨 Finishing my **studies**
     - 🚀 Learning Astro.js
     - Improving my personal website
 - 🎯 In the near future I will...
