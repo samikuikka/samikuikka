@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td valign="center">
-        🚀I am studying currently everything Web Development related.
+        🚀I am passionate about Web Development and new technologies.
     </td>
   </tr>
   <tr>
