@@ -60,7 +60,7 @@
 
 <p align="center">
 <a href="https://github.com/samikuikka/samikuikka">
-  <img align="center" src="http://github-readme-stats-6a49-samikuikka.vercel.app/api/top-langs/?username=samikuikka&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="http://github-readme-stats-6a49-samikuikka.vercel.app/api/top-langs/?username=samikuikka&hide=javascript,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/samikuikka/samikuikka">
   <img align="center" src="http://github-readme-stats-6a49-samikuikka.vercel.app/api?username=samikuikka&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sami Kuikka's GitHub stats" />
