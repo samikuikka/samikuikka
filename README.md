@@ -44,7 +44,7 @@
 
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
     - 💨 Finishing my **studies**
-    - 🚀 Learning Astro.js
+    - 🚀 Learning Angular
     - Improving my personal website
 - 🎯 In the near future I will...
     - Learn Next.js to to server-side render React apps.
