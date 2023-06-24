@@ -50,10 +50,7 @@
     - Building apps
     - Create a project to learn [T3 Stack](https://create.t3.gg/)
     
-    
-## 📲 Contact me
 
-![](https://img.shields.io/badge/samikuikka@outlook.com-informational?style=flat&logo=gmail&logoColor=EA4335&color=white)
 
 ## Stats📈
 <!-- https://github.com/anuraghazra/github-readme-stats/issues/2380 -->
