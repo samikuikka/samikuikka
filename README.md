@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td valign="center">
-        🎓I am pursuing both the <b>Bachelor's in Computer Science</b> and <b>Master's in Web Technologies, Application and Science</b>.
+        🎓I am pursuing <b>Master's in Web Technologies, Application and Science</b>.
     </td>
   </tr>
   <tr>
@@ -44,11 +44,10 @@
 ## ⬆️ What I'm up to
 
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
-    - 💨 Finishing my **studies**
     - 🚀 Learning Angular
-    - Improving my personal website
+    - Finishing my studies
 - 🎯 In the near future I will...
-    - Learn Next.js to to server-side render React apps.
+    - Building apps
     - Create a project to learn [T3 Stack](https://create.t3.gg/)
     
     
@@ -84,18 +83,3 @@
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
-
-<!--
-**samikuikka/samikuikka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
