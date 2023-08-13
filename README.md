@@ -48,7 +48,6 @@
     - 🚀 Learning Angular
     - Finishing my studies
 - 🎯 In the near future I will...
-    - Building apps
     - Create a project to learn [T3 Stack](https://create.t3.gg/)
     
 
