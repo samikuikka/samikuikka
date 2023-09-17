@@ -26,6 +26,7 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6364FF)
 ![](https://img.shields.io/badge/Tech-HTML5-informational?style=flat&logo=html5&logoColor=white&color=6364FF)
 ![](https://img.shields.io/badge/Tech-Angular-informational?style=flat&logo=angular&logoColor=white&color=6364FF)
+![](https://img.shields.io/badge/Tech-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=6364FF)
 ![](https://img.shields.io/badge/Tech-CSS3-informational?style=flat&logo=css3&logoColor=white&color=6364FF)
 ![](https://img.shields.io/badge/Tech-React-informational?style=flat&logo=react&logoColor=white&color=6364FF)
 ![](https://img.shields.io/badge/Tech-Astro-informational?style=flat&logo=astro&logoColor=white&color=6364FF)
@@ -45,11 +46,8 @@
 ## ⬆️ What I'm up to
 
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
-    - 🚀 Learning Angular
-    - Finishing my studies
-- 🎯 In the near future I will...
-    - Create a project to learn [T3 Stack](https://create.t3.gg/)
-    
+    - Building 🔧
+    - Finishing my studies    
 
 
 ## Stats📈
