@@ -32,15 +32,14 @@
 ![](https://img.shields.io/badge/Tech-Astro-informational?style=flat&logo=astro&logoColor=white&color=6364FF)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6364FF)
 ![](https://img.shields.io/badge/Tech-GitHub-informational?style=flat&logo=github&logoColor=white&color=6364FF)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node.js&logoColor=white&color=6364FF)
-![](https://img.shields.io/badge/Code-Deno-informational?style=flat&logo=deno&logoColor=white&color=6364FF)
+![](https://img.shields.io/badge/Tech-Node-informational?style=flat&logo=node.js&logoColor=white&color=6364FF)
+![](https://img.shields.io/badge/Tech-Deno-informational?style=flat&logo=deno&logoColor=white&color=6364FF)
 ![](https://img.shields.io/badge/Tech-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=6364FF)
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=6364FF)
+![](https://img.shields.io/badge/Tech-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=6364FF)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=6364FF)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6364FF)
 ![](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&logoColor=white&color=6364FF)
 ![](https://img.shields.io/badge/Tech-Express-informational?style=flat&logo=express&logoColor=white&color=6364FF)
-![](https://img.shields.io/badge/Tech-MaterialUI-informational?style=flat&logo=mui&logoColor=white&color=6364FF)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=6364FF)
 
 ## ⬆️ What I'm up to
