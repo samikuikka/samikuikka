@@ -14,11 +14,6 @@
         🚀I am passionate about Web Development and new technologies.
     </td>
   </tr>
-  <tr>
-    <td valign="center">
-        🌐My Portfolio found at <a href="www.samikuikka.website">samikuikka.website</a>
-    </td>
-  </tr>
 </table>
 
 ## 🔧 Technologies & Tools
