@@ -48,7 +48,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats/issues/2380 -->
 
 <p align="center">
-<a href="https://github.com/samikuikka/samikuikka">
+<a href="https://github.com/samikuikka/samikuikka"> 
   <img align="center" src="https://github-readme-stats-samikuikka.vercel.app/api/top-langs/?username=samikuikka&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/samikuikka/samikuikka">
