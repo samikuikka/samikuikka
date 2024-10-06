@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td valign="center">
-        🎓I am pursuing <b>Master's in Web Technologies, Application and Science</b>.
+        🎓Aalto university's <b>Master's in Web Technologies, Application and Science</b> graduate.
     </td>
   </tr>
   <tr>
@@ -14,7 +14,12 @@
         🚀I am passionate about Web Development and new technologies.
     </td>
   </tr>
-</table>
+  <tr>
+    <td valign="center">
+        💼Currently working at <b>Vertex Systems</b>, where I develop and maintain <b>scalable cloud applications</b> using modern web technologies.
+    </td>
+  </tr>
+</table
 
 ## 🔧 Technologies & Tools
 
@@ -40,8 +45,9 @@
 ## ⬆️ What I'm up to
 
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
-    - Building 🔧
-    - Finishing my studies    
+    - Building scalable cloud applications at Vertex Systems 🚀
+    - Preparing for the HSK 5 exam 🇨🇳
+    - Continuously learning and exploring new web technologies and cloud-native solutions 📚
 
 
 ## Stats📈
