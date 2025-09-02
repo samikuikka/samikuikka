@@ -2,26 +2,22 @@
 
 ## About me 🤖
 
+Full-stack engineer & Scrum Master building cloud apps and practical AI tools.  
 
 <table>
   <tr>
     <td valign="center">
-        🎓Aalto university's <b>Master's in Web Technologies, Application and Science</b> graduate.
+        🎓 MSc (Web Technologies), Aalto University
     </td>
   </tr>
   <tr>
     <td valign="center">
-        🚀I am passionate about Web Development and new technologies.
+         💼 Software Developer @ Vertex Systems
     </td>
   </tr>
   <tr>
     <td valign="center">
-        💼Currently working at <b>Vertex Systems</b>
-    </td>
-  </tr>
-  <tr>
-    <td valign="center">
-        🪄Building AI agent workflows on my free time
+        🧠 Interests: web development, cloud computing, agentic workflows.
     </td>
   </tr>
 </table
@@ -54,8 +50,9 @@
 
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
     - Building cloud applications at Vertex Systems 🚀
-    - Have some cool projects on AI agents 
+    - Building agentic websites on own time.
     - Focus on deep learning and system design.
+
 
 
 ## Stats📈
@@ -77,11 +74,15 @@
 </p>
 
 
-
-
 <p align="center">
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=samikuikka&theme=onedark" alt="#samikuikka" />
 </p>
+
+## 🤝 Connect
+
+- LinkedIn: https://www.linkedin.com/in/sami-kuikka/
+- Portfolio/Blog: https://samikuikka.com
+- Email: samikuikka@outlook.com
 
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
