@@ -16,7 +16,12 @@
   </tr>
   <tr>
     <td valign="center">
-        💼Currently working at <b>Vertex Systems</b>, where I develop and maintain <b>scalable cloud applications</b> using modern web technologies.
+        💼Currently working at <b>Vertex Systems</b>
+    </td>
+  </tr>
+  <tr>
+    <td valign="center">
+        🪄Building AI agent workflows on my free time
     </td>
   </tr>
 </table
@@ -48,9 +53,9 @@
 ## ⬆️ What I'm up to
 
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
-    - Building scalable cloud applications at Vertex Systems 🚀
-    - Preparing for the HSK 5 exam 🇨🇳
-    - Continuously learning and exploring new web technologies and cloud-native solutions 📚
+    - Building cloud applications at Vertex Systems 🚀
+    - Have some cool projects on AI agents 
+    - Focus on deep learning and system design.
 
 
 ## Stats📈
