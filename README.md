@@ -12,7 +12,7 @@ Full-stack engineer & Scrum Master building cloud apps and practical AI tools.
   </tr>
   <tr>
     <td valign="center">
-         💼 Software Developer @ Vertex Systems
+         💼 Software Developer @ Bind
     </td>
   </tr>
   <tr>
@@ -45,14 +45,6 @@ Full-stack engineer & Scrum Master building cloud apps and practical AI tools.
 ![](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&logoColor=white&color=6364FF)
 ![](https://img.shields.io/badge/Tech-Express-informational?style=flat&logo=express&logoColor=white&color=6364FF)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=6364FF)
-
-## ⬆️ What I'm up to
-
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
-    - Building cloud applications at Vertex Systems 🚀
-    - Building agentic websites on own time.
-    - Focus on deep learning and system design.
-
 
 
 ## Stats📈
