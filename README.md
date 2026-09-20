@@ -5,11 +5,11 @@ AI engineer at Bind, a Finnish AI startup. Building agent tooling, writing about
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Jev-as-Judge: A Confidence Signal for Evals](https://www.samikuikka.com/en/blog/jev-as-judge/)
 - [Principles of Loop Engineering](https://www.samikuikka.com/en/blog/principles-of-loop-engineering/)
 - [Closing the Loop on Harness Engineering](https://www.samikuikka.com/en/blog/closing-the-loop/)
 - [Building a Harness: How I Got Agents to Verify Their Own Code](https://www.samikuikka.com/en/blog/harness-engineering/)
 - [Prompt Optimization Shouldn&#39;t Require Rewriting Your App](https://www.samikuikka.com/en/blog/prompt-optimization-without-rewriting/)
-- [Building Memory Systems that Learn Across Conversations](https://www.samikuikka.com/en/blog/building-memory-systems-that-learn-across-conversations/)
 <!-- BLOG-POST-LIST:END -->
 
 More on [samikuikka.com](https://samikuikka.com).
