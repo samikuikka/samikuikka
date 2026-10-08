@@ -5,11 +5,11 @@ AI engineer at Bind, a Finnish AI startup. Building agent tooling, writing about
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Jev vs OpenAI Decisions: 2,094 Real Eval Checks](https://www.samikuikka.com/en/blog/jev-vs-openai-decisions-api/)
 - [Escalating Evals: 72% Fewer LLM Judge Calls](https://www.samikuikka.com/en/blog/escalating-to-jev/)
 - [TDD in the age of agents](https://www.samikuikka.com/en/blog/tdd-with-agents/)
 - [Agent-as-Judge: Harder Evals, More Computation](https://www.samikuikka.com/en/blog/agent-as-judge/)
 - [Jev-as-Judge: A Confidence Signal for Evals](https://www.samikuikka.com/en/blog/jev-as-judge/)
-- [Principles of Loop Engineering](https://www.samikuikka.com/en/blog/principles-of-loop-engineering/)
 <!-- BLOG-POST-LIST:END -->
 
 More on [samikuikka.com](https://samikuikka.com).
